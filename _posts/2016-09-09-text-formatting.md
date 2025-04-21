@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "How to write a new post"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: img6.jpg
 ---
 
 # Markdown Support

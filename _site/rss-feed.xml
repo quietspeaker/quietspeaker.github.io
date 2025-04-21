@@ -50,12 +50,12 @@
 			</item>
 		
 			<item>
-				<title>Welcome to Millennial!</title>
+				<title>Another example!</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>quietSpeaker</dc:creator>
 				
 				
-					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+					<description>&lt;h1 id=&quot;examples&quot;&gt;examples&lt;/h1&gt;
 </description>
 				
 				<pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -64,12 +64,12 @@
 			</item>
 		
 			<item>
-				<title>Getting Started</title>
+				<title>Getting Tired</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>quietSpeaker</dc:creator>
 				
 				
-					<description>&lt;h1 id=&quot;millennial&quot;&gt;Millennial&lt;/h1&gt;
+					<description>&lt;h1 id=&quot;mmm&quot;&gt;mmm&lt;/h1&gt;
 </description>
 				
 				<pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
@@ -78,7 +78,7 @@
 			</item>
 		
 			<item>
-				<title>Text Formatting</title>
+				<title>How to write a new post</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
