@@ -4,7 +4,7 @@ title: "Another example!"
 author: "quietSpeaker"
 categories: documentation
 tags: [documentation,sample]
-image: img4.jpg
+image: img5.jpg
 ---
 
 # examples
